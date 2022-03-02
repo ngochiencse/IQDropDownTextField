@@ -424,7 +424,7 @@ NSInteger const IQOptionalTextFieldIndex =  -1;
     //Refreshing pickerView
     [self setIsOptionalDropDown:_isOptionalDropDown];
     
-    [self setSelectedRow:self.selectedRow];
+//    [self setSelectedRow:self.selectedRow];
 }
 
 - (NSString*)selectedItem
